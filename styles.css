@@ -58,6 +58,10 @@ h1 {
     padding: 20px;
 }
 
+#coverPhoto {
+    width: 100%;
+}
+
 @media screen and (max-height: 450px) {
     .sidebar {padding-top: 15px;}
     .sidebar a {font-size: 18px;}
