@@ -2,6 +2,7 @@
 
 h1 {
     font-family: 'Calligraffitti', cursive;
+    text-align: center;
 }
 
 .sidebar {
@@ -65,5 +66,9 @@ h1 {
 @media screen and (max-height: 450px) {
     .sidebar {padding-top: 15px;}
     .sidebar a {font-size: 18px;}
+}
+
+@media screen and (max-width: 375px) {
+    h1 {font-size: 25px;}
 }
 
