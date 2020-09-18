@@ -5,6 +5,11 @@ h1 {
     text-align: center;
 }
 
+p {
+    font-family: 'Calligraffitti', cursive;
+    text-align: center;
+}
+
 .sidebar {
     height: 100%;
     width: 0;
