@@ -12,8 +12,9 @@ scroll-container {
 }
 
 scroll-page {
-    display: flex;
+    display: grid;
     height: 100%;
+    width: 100%;
 }
 
 h1 {
