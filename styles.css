@@ -5,6 +5,7 @@ html {
 }
 
 scroll-container {
+    display: block;
     overflow-y: scroll;
     scroll-behavior: smooth;
 }
