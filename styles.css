@@ -8,6 +8,7 @@ scroll-container {
     display: block;
     overflow-y: scroll;
     scroll-behavior: smooth;
+    height: 600px;
 }
 
 scroll-page {
