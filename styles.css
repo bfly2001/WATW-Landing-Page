@@ -9,6 +9,11 @@ scroll-container {
     scroll-behavior: smooth;
 }
 
+scroll-page {
+    display: flex;
+    height: 100%;
+}
+
 h1 {
     font-family: 'Calligraffitti', cursive;
     text-align: center;
