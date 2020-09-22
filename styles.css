@@ -25,6 +25,10 @@ h1 {
     text-align: center;
 }
 
+#coverH1 {
+    font-size: 60px;
+}
+
 p {
     font-family: 'Calligraffitti', cursive;
     text-align: center;
