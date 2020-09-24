@@ -96,15 +96,11 @@ p {
 }
 
 .video-container {
-    overflow: hidden;
     position: relative;
-    width: 100%;
-}
-
-.video-container::after {
-    padding-top: 56.25%;
-    display: block;
-    content: '';
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    width: 100vw;
 }
 
 .video-container iframe {
