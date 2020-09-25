@@ -111,6 +111,10 @@ p {
     height: 100%;
 }
 
+.wrapper {
+    align-self: center;
+}
+
 @media screen and (max-height: 450px) {
     .sidebar {padding-top: 15px;}
     .sidebar a {font-size: 18px;}
